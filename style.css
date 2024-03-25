@@ -1,4 +1,6 @@
-<header> .
+<header> .cabecalho-imagem{
+    width: 20%;
+    }
 * {
     margin: 0 16px;
 padding: 24px 0;
