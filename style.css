@@ -28,3 +28,7 @@
     margin: 0 16px;
     padding: 24px 0;
     }
+
+    nav a:hover {
+      color:white
+    }
