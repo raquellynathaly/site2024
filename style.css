@@ -1,5 +1,5 @@
 .cabeçalho_lista {
-    background-color: rgb(66, 66, 161);
+    background-color: rgb(212, 23, 23);
     color: white;
     display: flex;
     justify-content: space-around;
@@ -14,7 +14,7 @@
     }
     
       nav a:hover{
-        color:blue 
+        color:crimson
       }
 
     .itens{
